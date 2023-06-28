@@ -47,5 +47,6 @@ Contributions are welcomed to enhance the features and functionality of the Eleg
 
 For any inquiries or further information, please reach out at [20a31a05e8@example.com](mailto:20a31a05e8@example.com).
 
-Thank you for visiting the repository and considering Elegance and Vows. looking forward to helping you create cherished memories!
+Thank you for visiting the repository and considering Elegance and Vows. looking forward to helping you create cherished memories!❤️
+
 
