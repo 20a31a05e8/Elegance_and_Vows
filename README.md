@@ -21,8 +21,15 @@ Elegance and Vows is a wedding planner company dedicated to creating unforgettab
 
 **Home Page**
 
+![Screenshot 1](/screenshots/home.png)
 
+**Services page**
 
+![Screenshot 1](/screenshots/services.png)
+
+**Contact Page**
+
+![Screenshot 1](/screenshots/contact.png)
 
 ## Getting Started
 
